@@ -1,0 +1,13 @@
+com/example/demo/service/PersonService.class
+com/example/demo/controller/AccountController.class
+com/example/demo/repository/AccountRepository.class
+com/example/demo/controller/AddressController.class
+com/example/demo/entity/Account.class
+com/example/demo/entity/Person.class
+com/example/demo/DemoApplication.class
+com/example/demo/entity/Address.class
+com/example/demo/repository/PersonRepository.class
+com/example/demo/controller/PersonController.class
+com/example/demo/service/AddressService.class
+com/example/demo/service/AccountService.class
+com/example/demo/repository/AddressRepository.class
